@@ -1,2 +1,1 @@
-Practicing my HTML knowledge by b
-uilding a basic recipe website.
+Practicing my HTML knowledge by building a basic recipe website.
