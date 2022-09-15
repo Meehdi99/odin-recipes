@@ -1,1 +1,1 @@
-Practicing my HTML knowledge by building a basic recipe website.
+HTML and CSS practice : building simple recipe website.
